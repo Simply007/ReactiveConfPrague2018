@@ -1,6 +1,6 @@
 ---
 title: Typing Towards an Accessible Web
-date: "2018-10-29T11:300:00.000Z"
+date: "2018-10-29T11:30:00.000Z"
 ---
 
 Author: Tessa Kelly
