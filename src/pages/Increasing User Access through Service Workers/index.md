@@ -1,5 +1,5 @@
 ---
-title: Compose all the things
+title: Increasing User Access through Service Workers
 date: "2018-10-29T10:00:00.000Z"
 ---
 

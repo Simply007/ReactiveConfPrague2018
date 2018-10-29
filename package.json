@@ -1,10 +1,10 @@
 {
   "name": "gatsby-starter-blog",
-  "description": "Starter Gatsby Blog",
+  "description": "Notes from the ReactiveConf 2018 held in Prague 2018-10-29.",
   "version": "1.0.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Ondřej Chrastina <chrastina.ondra@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
+    "url": "https://github.com/Simply007/ReactiveConfPrague2018/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.19",
@@ -41,7 +41,7 @@
     "gh-pages": "^1.2.0",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/Simply007/ReactiveConfPrague2018",
   "keywords": [
     "gatsby"
   ],
@@ -49,7 +49,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/Simply007/ReactiveConfPrague2018.git"
   },
   "scripts": {
     "dev": "gatsby develop",
@@ -58,7 +58,6 @@
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "deploy:full": "gatsby build --prefix-paths && cpx public/**/* docs",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "fix-semi": "eslint --quiet --ignore-pattern node_modules --ignore-pattern public --parser babel-eslint --no-eslintrc --rule '{\"semi\": [2, \"never\"], \"no-extra-semi\": [2]}' --fix gatsby-node.js"
   }
