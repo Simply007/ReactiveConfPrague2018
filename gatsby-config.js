@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://gatsbyjs.github.io/gatsby-starter-blog/',
+    title: 'ReactiveConf Prague 2018',
+    author: 'Ondřej Chrastina',
+    description: 'Notes from the ReactiveConf 2018 held in Prague 2018-10-29',
+    siteUrl: 'https://simply007.github.io/ReactiveConfPrague2018/',
   },
   pathPrefix: '/gatsby-starter-blog',
   plugins: [
