@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ReactiveConf Prague 2018]]></title><description><![CDATA[Notes from the ReactiveConf 2018 held in Prague 2018-10-29.]]></description><link>https://simply007.github.io/ReactiveConfPrague2018/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 29 Oct 2018 09:38:22 GMT</lastBuildDate><item><title><![CDATA[Increasing User Access through Service Workers]]></title><description><![CDATA[Author: Necoline Hubner Twitter Intro talk How to track attendance on refugee camp in Kenya create an mobile app for tracking attendance…]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Increasing User Access through Service Workers/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Increasing User Access through Service Workers/</guid><pubDate>Mon, 29 Oct 2018 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: Necoline Hubner&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ReactiveConf Prague 2018]]></title><description><![CDATA[Notes from the ReactiveConf 2018 held in Prague 2018-10-29.]]></description><link>https://simply007.github.io/ReactiveConfPrague2018/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 29 Oct 2018 09:43:38 GMT</lastBuildDate><item><title><![CDATA[Increasing User Access through Service Workers]]></title><description><![CDATA[Author: Necoline Hubner Twitter Intro talk How to track attendance on refugee camp in Kenya create an mobile app for tracking attendance…]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Increasing User Access through Service Workers/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Increasing User Access through Service Workers/</guid><pubDate>Mon, 29 Oct 2018 10:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: Necoline Hubner&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://twitter.com/necolinehubner&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -140,7 +140,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-4d314.png&quot;
+    href=&quot;/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-4d314.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -159,13 +159,13 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;ReactiveCOnf Logo&quot;
         title=&quot;&quot;
-        src=&quot;/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fb8a0.png&quot;
-        srcset=&quot;/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-1a291.png 148w,
-/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-2bc4a.png 295w,
-/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fb8a0.png 590w,
-/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-526de.png 885w,
-/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fa2eb.png 1180w,
-/gatsby-starter-blog/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-4d314.png 1501w&quot;
+        src=&quot;/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fb8a0.png&quot;
+        srcset=&quot;/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-1a291.png 148w,
+/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-2bc4a.png 295w,
+/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fb8a0.png 590w,
+/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-526de.png 885w,
+/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-fa2eb.png 1180w,
+/static/logo_reactiveconf-3a8952b09df1ab0262033a009357ea1b-4d314.png 1501w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
     &lt;/span&gt;
