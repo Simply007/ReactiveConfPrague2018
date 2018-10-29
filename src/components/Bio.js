@@ -34,7 +34,7 @@ class Bio extends React.Component {
           <a href="https://github.com/Simply007">
             Or on GitHub
           </a><br/>
-          <a href="https://github.com/https://medium.com/@Simply007">
+          <a href="https://medium.com/@Simply007">
             Or even on Medium!
           </a>
         </p>
