@@ -5,7 +5,7 @@ module.exports = {
     description: 'Notes from the ReactiveConf 2018 held in Prague 2018-10-29.',
     siteUrl: 'https://simply007.github.io/ReactiveConfPrague2018/',
   },
-  pathPrefix: '/gatsby-starter-blog',
+  pathPrefix: '/ReactiveConfPrague2018',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
