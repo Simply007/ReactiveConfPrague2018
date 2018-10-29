@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 
 import { rhythm, scale } from '../utils/typography'
+import gitHubMark from './GitHub-Mark.png'
 
 class Template extends React.Component {
   render() {
@@ -47,7 +48,7 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Gatsby Starter Blog
+            ReactiveConf Prague 2018
           </Link>
         </h3>
       )
@@ -63,6 +64,28 @@ class Template extends React.Component {
       >
         {header}
         {children}
+        <footer style={{
+          background: '#DDDDDD',
+          textAlign: 'center',
+          height: '4em',
+          padding: '.5em'
+        }}>
+          <a 
+            href="https://github.com/Simply007/ReactiveConfPrague2018"
+            style={{
+              boxShadow: 'none'
+            }}>
+            <img 
+              src={gitHubMark} 
+              alt="gitHub Octocat"
+              style={{
+                height: '3em',
+                padding: '0',
+                margin: '0'
+                
+              }}/>
+            </a>
+        </footer>
       </div>
     )
   }

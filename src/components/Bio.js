@@ -30,6 +30,12 @@ class Bio extends React.Component {
           Written by <strong>Ondřej Chrastina</strong> who lives and works in Brno as a Developer Advocate.{' '}
           <a href="https://twitter.com/ChrastinaOndrej">
             You should follow him on Twitter
+          </a><br/>
+          <a href="https://github.com/Simply007">
+            Or on GitHub
+          </a><br/>
+          <a href="https://github.com/https://medium.com/@Simply007">
+            Or even on Medium!
           </a>
         </p>
       </div>
