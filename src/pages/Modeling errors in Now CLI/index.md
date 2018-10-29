@@ -21,6 +21,7 @@ AUTHOR: JAVI VELASCO
     * error contain only domain error and the message > **How to display the error how to find out the actual root cause of error**
   
 ## Solution
+1. Map your error space
 1. Encapsulate error to the objects 
 2. Create a hierarchy of the error (prototype/class hierarchy)
 3. Extend the error information by the context when the error was raised
