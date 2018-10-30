@@ -1,7 +1,7 @@
 {
   "name": "gatsby-starter-blog",
   "description": "Notes from the ReactiveConf 2018 held in Prague 2018-10-29.",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "author": "Ondřej Chrastina <chrastina.ondra@gmail.com>",
   "bugs": {
     "url": "https://github.com/Simply007/ReactiveConfPrague2018/issues"
