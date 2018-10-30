@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ReactiveConf Prague 2018]]></title><description><![CDATA[Notes from the ReactiveConf 2018 held in Prague 2018-10-29.]]></description><link>https://simply007.github.io/ReactiveConfPrague2018/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Oct 2018 09:52:15 GMT</lastBuildDate><item><title><![CDATA[Actor Model in Javascript]]></title><description><![CDATA[Author: ISMAIL MUHAMMAD Use case - chat room user connect to the one room in the room group problem: switching users between room there is…]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Actor Model in Javascript/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Actor Model in Javascript/</guid><pubDate>Tue, 30 Oct 2018 10:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: ISMAIL MUHAMMAD&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ReactiveConf Prague 2018]]></title><description><![CDATA[Notes from the ReactiveConf 2018 held in Prague 2018-10-29.]]></description><link>https://simply007.github.io/ReactiveConfPrague2018/</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Oct 2018 10:02:26 GMT</lastBuildDate><item><title><![CDATA[Convenient data fetching with Higher Order Components]]></title><description><![CDATA[Author: MARTIN PINTER TBD]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Convenient data fetching with Higher Order Components/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Convenient data fetching with Higher Order Components/</guid><pubDate>Tue, 30 Oct 2018 11:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: MARTIN PINTER&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TBD&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Actor Model in Javascript]]></title><description><![CDATA[Author: ISMAIL MUHAMMAD Use case - chat room user connect to the one room in the room group problem: switching users between room there is…]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Actor Model in Javascript/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Actor Model in Javascript/</guid><pubDate>Tue, 30 Oct 2018 10:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: ISMAIL MUHAMMAD&lt;/p&gt;
 &lt;h1&gt;Use case - chat room&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -54,6 +55,15 @@
 &lt;h1&gt;Key notes&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Actrix could be more efficient in specific scenarios&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Questions&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Testing app&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;just some tests in repository - by case to case - no framework  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Reactive iOS App Development]]></title><description><![CDATA[Author: CHRIS FUENTES Working on AR in iOS reactive way Examples on  Realm (DB) what you need is the query observation support Usecase…]]></description><link>https://simply007.github.io/ReactiveConfPrague2018//Reactive iOS App Development/</link><guid isPermaLink="false">https://simply007.github.io/ReactiveConfPrague2018//Reactive iOS App Development/</guid><pubDate>Tue, 30 Oct 2018 10:30:00 GMT</pubDate><content:encoded>&lt;p&gt;Author: CHRIS FUENTES&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
