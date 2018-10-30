@@ -3,7 +3,7 @@ title: Crafting Web Comics with Ember
 date: "2018-10-30T09:30:00.000Z"
 ---
 
-Author: ESSICA JORDAN
+Author: JESSICA JORDAN
 * [Twitter](https://twitter.com/jjordan_dev)
 
 # Ember
