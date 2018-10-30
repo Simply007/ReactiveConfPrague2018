@@ -1,9 +1,9 @@
 # Ideas
 * create an ember starter https://ember-cli.com/extending/ to the KC
 * tell @martinmakarsky about Chris Fuentes (MS) - Working on AR in iOS reactive way (ad chris annotation)
+* how to use hooks in React - trandy - good theme for article (@ondrejpolesny)
+* apollo vs relay topic
 * 
-
-
 
 ---
 
