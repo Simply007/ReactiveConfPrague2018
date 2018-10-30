@@ -1,6 +1,6 @@
 ---
 title: Type-safe React with ReasonML
-date: "2018-10-29T16:30:00.000Z"
+date: "2018-10-30T16:30:00.000Z"
 ---
 
 Author: JARED FORSYTH
